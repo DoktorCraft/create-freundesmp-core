@@ -1,0 +1,26 @@
+{
+  "item.cfsmp.mechanium_ingot": "Mechanium Ingot",
+  "item.cfsmp.mechanium_nugget": "Mechanium Nugget",
+  "item.cfsmp.mechanium_sheet": "Mechanium Sheet",
+  "item.cfsmp.mechanium_crystal": "Mechanium Crystal",
+  "item.cfsmp.mechanium_fragment": "Mechanium Fragment",
+  "item.cfsmp.neptunium_ingot": "Neptunium Ingot",
+  "item.cfsmp.pure_uranium": "Pure Uranium Dust",
+  "item.cfsmp.uranium_hexaflourite": "Uranium Hexaflourite Dust",
+  "item.cfsmp.yellowcake": "Yellowcake Dust",
+  "item.cfsmp.blasted_yellowcake": "Blasted Yellowcake Dust",
+  "item.cfsmp.raw_mechanium_crystal": "Raw Mechanium Crystal",
+  "item.cfsmp.plutonium_ingot": "Plutonium Ingot",
+  "item.cfsmp.uraninit": "Uraninit Crystal",
+  "item.cfsmp.crushed_uraninit": "Crushed Uraninit Dust",
+
+  "block.cfsmp.mechanium_block": "Block of Mechanium",
+  "block.cfsmp.nuclear_casing": "Nuclear Casing",
+  "block.cfsmp.nuclear_controller": "Nuclear Controller",
+  "block.cfsmp.electromagnetic_coil": "Electromagnetic Coil",
+
+  "sound.cfsmp.need_iron": "I Need Iron Blocks",
+  "sound.cfsmp.hdf_dok": "HALTS MAUL DOKTORCRAFT",
+
+  "creativetab.cfsmp": "Create: FreundeSMP Core"
+}

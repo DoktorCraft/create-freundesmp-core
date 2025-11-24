@@ -1,0 +1,14 @@
+{
+  "need_iron": {
+    "subtitles": "sounds.cfsmp.need_iron",
+    "sounds": [
+      "cfsmp:need_iron"
+    ]
+  },
+  "hdf_dok": {
+    "subtitles": "sounds.cfsmp.hdf_dok",
+    "sounds": [
+      "cfsmp:hdf_dok"
+    ]
+  }
+}

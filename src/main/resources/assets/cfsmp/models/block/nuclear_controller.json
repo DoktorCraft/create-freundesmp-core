@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/orientable_with_bottom",
+  "textures": {
+    "bottom": "cfsmp:block/nuclear_casing",
+    "front": "cfsmp:block/nuclear_controller",
+    "side": "cfsmp:block/nuclear_casing",
+    "top": "cfsmp:block/nuclear_casing"
+  }
+}

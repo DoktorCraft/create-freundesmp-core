@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "cfsmp:mechanium_nugget"
+    }
+  },
+  "result": {
+    "item": "cfsmp:mechanium_ingot"
+  }
+}

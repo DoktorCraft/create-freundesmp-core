@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "cfsmp:mechanium_block"
+    }
+  ],
+  "result": {
+    "item": "cfsmp:mechanium_ingot",
+    "count": 9
+  }
+}

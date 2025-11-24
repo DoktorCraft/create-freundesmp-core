@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "cfsmp:block/electromagnetic_coil_top",
+    "side": "cfsmp:block/electromagnetic_coil_side"
+  }
+}
