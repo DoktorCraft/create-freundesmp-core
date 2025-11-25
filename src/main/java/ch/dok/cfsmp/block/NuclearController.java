@@ -1,4 +1,4 @@
-package ch.dok.cfsmp.block.custom;
+package ch.dok.cfsmp.block;
 
 
 import net.minecraft.core.Direction;

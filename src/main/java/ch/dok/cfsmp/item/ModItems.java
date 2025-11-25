@@ -40,6 +40,26 @@ public class ModItems {
             () -> new Item(new Item.Properties()));
     public static final RegistryObject<Item> CRUSHED_URANINIT = ITEMS.register("crushed_uraninit",
             () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> PALE_EYE = ITEMS.register("pale_eye",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> ARCANEAL_MECHANIUM_FRAGMENT = ITEMS.register("arcaneal_mechanium_fragment",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> BIOLOGICAL_MECHANIUM_FRAGMENT = ITEMS.register("biological_mechanium_fragment",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> CHEMICAL_MECHANIUM_FRAGMENT = ITEMS.register("chemical_mechanium_fragment",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> DIMENSIONAL_MECHANIUM_FRAGMENT = ITEMS.register("dimensional_mechanium_fragment",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> ELECTRICAL_MECHANIUM_FRAGMENT = ITEMS.register("electrical_mechanium_fragment",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> MECHANICAL_MECHANIUM_FRAGMENT = ITEMS.register("mechanical_mechanium_fragment",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> SUBTERRESTIAL_MECHANIUM_FRAGMENT = ITEMS.register("subterrestial_mechanium_fragment",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> SYNTHETIC_MECHANIUM_FRAGMENT = ITEMS.register("synthetic_mechanium_fragment",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> TERRESTIAL_MECHANIUM_FRAGMENT = ITEMS.register("terrestial_mechanium_fragment",
+            () -> new Item(new Item.Properties()));
 
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);

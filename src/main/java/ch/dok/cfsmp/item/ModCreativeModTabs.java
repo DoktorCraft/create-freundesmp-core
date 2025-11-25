@@ -32,6 +32,16 @@ public class ModCreativeModTabs {
                         pOutput.accept(ModItems.PLUTONIUM_INGOT.get());
                         pOutput.accept(ModItems.URANINIT.get());
                         pOutput.accept(ModItems.CRUSHED_URANINIT.get());
+                        pOutput.accept(ModItems.PALE_EYE.get());
+                        pOutput.accept(ModItems.ARCANEAL_MECHANIUM_FRAGMENT.get());
+                        pOutput.accept(ModItems.BIOLOGICAL_MECHANIUM_FRAGMENT.get());
+                        pOutput.accept(ModItems.CHEMICAL_MECHANIUM_FRAGMENT.get());
+                        pOutput.accept(ModItems.DIMENSIONAL_MECHANIUM_FRAGMENT.get());
+                        pOutput.accept(ModItems.ELECTRICAL_MECHANIUM_FRAGMENT.get());
+                        pOutput.accept(ModItems.MECHANICAL_MECHANIUM_FRAGMENT.get());
+                        pOutput.accept(ModItems.SUBTERRESTIAL_MECHANIUM_FRAGMENT.get());
+                        pOutput.accept(ModItems.SYNTHETIC_MECHANIUM_FRAGMENT.get());
+                        pOutput.accept(ModItems.TERRESTIAL_MECHANIUM_FRAGMENT.get());
                         pOutput.accept(ModBlocks.MECHANIUM_BLOCK.get());
                         pOutput.accept(ModBlocks.NUCLEAR_CASING.get());
                         pOutput.accept(ModBlocks.NUCLEAR_CONTROLLER.get());

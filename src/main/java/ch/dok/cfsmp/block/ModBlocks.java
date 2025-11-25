@@ -1,7 +1,7 @@
 package ch.dok.cfsmp.block;
 
 import ch.dok.cfsmp.Cfsmp;
-import ch.dok.cfsmp.block.custom.NuclearController;
+import ch.dok.cfsmp.block.NuclearController;
 import ch.dok.cfsmp.item.ModItems;
 import net.minecraft.world.item.BlockItem;
 import net.minecraft.world.item.Item;

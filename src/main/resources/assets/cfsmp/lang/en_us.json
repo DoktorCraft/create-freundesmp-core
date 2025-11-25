@@ -14,6 +14,16 @@
   "item.cfsmp.uraninit": "Uraninit Crystal",
   "item.cfsmp.crushed_uraninit": "Crushed Uraninit Dust",
 
+  "item.cfsmp.arcaneal_mechanium_fragment": "Arcaneal Mechanium Fragment",
+  "item.cfsmp.biological_mechanium_fragment": "Biological Mechanium Fragment",
+  "item.cfsmp.chemical_mechanium_fragment": "Chemical Mechanium Fragment",
+  "item.cfsmp.dimensional_mechanium_fragment": "Dimensional Mechanium Fragment",
+  "item.cfsmp.electrical_mechanium_fragment": "Electrical Mechanium Fragment",
+  "item.cfsmp.mechanical_mechanium_fragment": "Mechanical Mechanium Fragment",
+  "item.cfsmp.subterrestial_mechanium_fragment": "Subterrestial Mechanium Fragment",
+  "item.cfsmp.synthetic_mechanium_fragment": "Synthetic Mechanium Fragment",
+  "item.cfsmp.terrestial_mechanium_fragment": "Terrestial Mechanium Fragment",
+
   "block.cfsmp.mechanium_block": "Block of Mechanium",
   "block.cfsmp.nuclear_casing": "Nuclear Casing",
   "block.cfsmp.nuclear_controller": "Nuclear Controller",
