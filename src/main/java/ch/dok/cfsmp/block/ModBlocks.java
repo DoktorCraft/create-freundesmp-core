@@ -19,13 +19,13 @@ public class ModBlocks {
             DeferredRegister.create(ForgeRegistries.BLOCKS, Cfsmp.MODID);
 
     public static final RegistryObject<Block> MECHANIUM_BLOCK = registerBlock("mechanium_block",
-            () -> new Block(BlockBehaviour.Properties.copy(Blocks.NETHERITE_BLOCK)));
+            () -> new Block(BlockBehaviour.Properties.copy(Blocks.NETHERITE_BLOCK).destroyTime(20).requiresCorrectToolForDrops().strength(4)));
     public static final RegistryObject<NuclearController> NUCLEAR_CONTROLLER = registerBlock("nuclear_controller",
-            () -> new NuclearController(BlockBehaviour.Properties.copy(Blocks.NETHERITE_BLOCK)));
+            () -> new NuclearController(BlockBehaviour.Properties.copy(Blocks.NETHERITE_BLOCK).destroyTime(20).requiresCorrectToolForDrops().strength(4)));
     public static final RegistryObject<Block> NUCLEAR_CASING = registerBlock("nuclear_casing",
-            () -> new Block(BlockBehaviour.Properties.copy(Blocks.NETHERITE_BLOCK)));
+            () -> new Block(BlockBehaviour.Properties.copy(Blocks.NETHERITE_BLOCK).destroyTime(20).requiresCorrectToolForDrops().strength(4)));
     public static final RegistryObject<RotatedPillarBlock> ELECTORMAGNETIC_COIL = registerBlock("electromagnetic_coil",
-            () -> new RotatedPillarBlock(BlockBehaviour.Properties.copy(Blocks.COPPER_BLOCK)));
+            () -> new RotatedPillarBlock(BlockBehaviour.Properties.copy(Blocks.COPPER_BLOCK).destroyTime(20).requiresCorrectToolForDrops().strength(4)));
 
 
     private static <T extends Block> RegistryObject<T> registerBlock(String name, Supplier<T> block) {
