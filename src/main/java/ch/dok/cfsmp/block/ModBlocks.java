@@ -24,6 +24,8 @@ public class ModBlocks {
             () -> new NuclearController(BlockBehaviour.Properties.copy(Blocks.NETHERITE_BLOCK).destroyTime(20).requiresCorrectToolForDrops().strength(4)));
     public static final RegistryObject<Block> NUCLEAR_CASING = registerBlock("nuclear_casing",
             () -> new Block(BlockBehaviour.Properties.copy(Blocks.NETHERITE_BLOCK).destroyTime(20).requiresCorrectToolForDrops().strength(4)));
+    public static final RegistryObject<MandarineBlock> MANDARINE = registerBlock("mandarine",
+            () -> new MandarineBlock(BlockBehaviour.Properties.copy(Blocks.ORANGE_WOOL).of().strength(2.0f).noOcclusion()));
     public static final RegistryObject<RotatedPillarBlock> ELECTORMAGNETIC_COIL = registerBlock("electromagnetic_coil",
             () -> new RotatedPillarBlock(BlockBehaviour.Properties.copy(Blocks.COPPER_BLOCK).destroyTime(20).requiresCorrectToolForDrops().strength(4)));
 

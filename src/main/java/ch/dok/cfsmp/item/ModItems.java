@@ -60,6 +60,8 @@ public class ModItems {
             () -> new Item(new Item.Properties()));
     public static final RegistryObject<Item> TERRESTIAL_MECHANIUM_FRAGMENT = ITEMS.register("terrestial_mechanium_fragment",
             () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> OMINOUS_CAVE_TABLET = ITEMS.register("ominous_cave_tablet",
+            () -> new Item(new Item.Properties()));
 
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);

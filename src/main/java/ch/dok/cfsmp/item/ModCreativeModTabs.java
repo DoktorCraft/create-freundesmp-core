@@ -42,10 +42,12 @@ public class ModCreativeModTabs {
                         pOutput.accept(ModItems.SUBTERRESTIAL_MECHANIUM_FRAGMENT.get());
                         pOutput.accept(ModItems.SYNTHETIC_MECHANIUM_FRAGMENT.get());
                         pOutput.accept(ModItems.TERRESTIAL_MECHANIUM_FRAGMENT.get());
+                        pOutput.accept(ModItems.OMINOUS_CAVE_TABLET.get());
                         pOutput.accept(ModBlocks.MECHANIUM_BLOCK.get());
                         pOutput.accept(ModBlocks.NUCLEAR_CASING.get());
                         pOutput.accept(ModBlocks.NUCLEAR_CONTROLLER.get());
                         pOutput.accept(ModBlocks.ELECTORMAGNETIC_COIL.get());
+                        pOutput.accept(ModBlocks.MANDARINE.get());
                     })
                     .build());
 
